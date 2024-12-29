@@ -1,5 +1,5 @@
 {
-    "name": "hansschouten/laravel-pagebuilder",
+    "name": "bunny-x-bunny/laravel-pagebuilder",
     "description": "A drag and drop pagebuilder to manage pages in any Laravel project.",
     "keywords": [
         "laravel",
@@ -15,7 +15,7 @@
     ],
     "require": {
         "php": ">=7.0",
-        "hansschouten/phpagebuilder": "^0.29"
+        "bunny-x-bunny/phpagebuilder": "3dc38dd9049a6fd3bff3807c1edcefcabbebe7f9"
     },
     "autoload": {
         "psr-4": {
