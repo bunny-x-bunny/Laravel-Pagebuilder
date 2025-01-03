@@ -25,7 +25,7 @@
     },
     "autoload": {
         "psr-4": {
-            "bunny-x-bunny\\LaravelPageBuilder\\": "src/"
+            "HansSchouten\\LaravelPageBuilder\\": "src/"
         }
     },
     "minimum-stability": "dev",
@@ -33,10 +33,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "bunny-x-bunny\\LaravelPageBuilder\\ServiceProvider"
+                "HansSchouten\\LaravelPageBuilder\\ServiceProvider"
             ],
             "aliases": {
-                "PageBuilder": "bunny-x-bunny\\LaravelPageBuilder\\Facade"
+                "PageBuilder": "HansSchouten\\LaravelPageBuilder\\Facade"
             }
         }
     }
